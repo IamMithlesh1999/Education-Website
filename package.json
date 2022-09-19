@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "google-maps-react": "^2.0.6",
     "material-icons": "^1.10.11",
+    "module": "^1.2.5",
     "modules": "^0.4.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
